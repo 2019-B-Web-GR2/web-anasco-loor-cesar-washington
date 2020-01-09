@@ -1,0 +1,14 @@
+
+> calculadora@0.0.1 start C:\Users\Galo\Documents\GitHub\Web-Olmedo-Velez-Veronica-Elizabeth\02 - Deberes\calculadora
+> nest start
+
+[32m[Nest] 11940   - [39m2019-12-05 11:31:14 AM   [33m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[33m +68ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[RoutesResolver] [39m[32mAppController {/calculadora}:[39m[33m +15ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[RouterExplorer] [39m[32mMapped {/hola, GET} route[39m[33m +9ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[RouterExplorer] [39m[32mMapped {/suma, GET} route[39m[33m +3ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[RouterExplorer] [39m[32mMapped {/resta, POST} route[39m[33m +34ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[RouterExplorer] [39m[32mMapped {/multiplicacion, PUT} route[39m[33m +2ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[RouterExplorer] [39m[32mMapped {/division, DELETE} route[39m[33m +2ms[39m
+[32m[Nest] 11940   - [39m2019-12-05 11:31:15 AM   [33m[NestApplication] [39m[32mNest application successfully started[39m[33m +7ms[39m
+¨Desea terminar el trabajo por lotes (S/N)? ¨Desea terminar el trabajo por lotes (S/N)? ¨Desea terminar el trabajo por lotes (S/N)? 

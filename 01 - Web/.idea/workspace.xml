@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bc47932-19a0-4e04-83db-4a4f1d38835d" name="Default Changelist" comment="" />
+    <list default="true" id="1bc47932-19a0-4e04-83db-4a4f1d38835d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pruebas-http/src/usuario/usuario.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pruebas-http/src/usuario/usuario.controller.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/a-pruebas-http" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\USRSIG\Documents\GitHub\Web-Olmedo-Velez-Veronica-Elizabeth\01 - Web\pruebas-http\node_modules\typescript\lib" />
   </component>
@@ -42,7 +45,22 @@
       <option name="presentableId" value="Default" />
       <updated>1574366710856</updated>
       <workItem from="1574366713111" duration="3482000" />
-      <workItem from="1574449872501" duration="6585000" />
+      <workItem from="1574449872501" duration="6708000" />
+      <workItem from="1574968824248" duration="729000" />
+      <workItem from="1574970696354" duration="5901000" />
+      <workItem from="1575054822389" duration="290000" />
+      <workItem from="1575059877345" duration="1881000" />
+      <workItem from="1576182818404" duration="3102000" />
+      <workItem from="1576264487568" duration="7029000" />
+      <workItem from="1576271692857" duration="18000" />
+      <workItem from="1576272250875" duration="752000" />
+      <workItem from="1576782531874" duration="447000" />
+      <workItem from="1577992341971" duration="4578000" />
+      <workItem from="1577997001199" duration="2564000" />
+      <workItem from="1578078857966" duration="8058000" />
+      <workItem from="1578088942571" duration="2893000" />
+      <workItem from="1578507971343" duration="1007000" />
+      <workItem from="1578586975517" duration="1134000" />
     </task>
     <servers />
   </component>
